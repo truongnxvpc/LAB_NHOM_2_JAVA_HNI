@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/model/Product.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/controller/ControllerProductManage.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/dao/CategoryDAOImpl.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/dao/ProductDAOImpl.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/service/ProductService.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/model/Cart.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/util/HibernateUtil.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/service/CategoryServiceImpl.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/dao/MemberDAO.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/service/MemberServiceImpl.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/controller/ControllerManages.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/dao/MemberDAOImpl.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/service/ProductServiceImpl.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/service/MemberService.java</file>
+            <file>file:/E:/Data/Truong/New%20folder%20(2)/MyShop/src/java/com/teamvietdev/controller/ControllerPages.java</file>
+        </group>
+    </open-files>
+</project-private>
